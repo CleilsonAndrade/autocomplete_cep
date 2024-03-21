@@ -16,7 +16,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Projeto de uma pagina de checkout na etapa de inserção de CEP (Códigos de Endereçamento Postal), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a fetch API do JavaScript e validando dados, com a estilização sendo realizada utilizando o framework Bootstrap.
+Projeto de uma pagina de checkout na etapa de inserção de CEP (Códigos de Endereçamento Postal), utilizando a API da [**ViaCEP**](https://viacep.com.br/) e para realizar as requisições é utilizado a fetch API do JavaScript e validando dados, com a estilização sendo realizada utilizando o framework [**Bootstrap**](https://getbootstrap.com/).
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Requisição a API<br>
