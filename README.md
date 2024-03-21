@@ -49,7 +49,7 @@ Projeto de uma pagina de checkout na etapa de inserção de CEP (Códigos de End
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/autocomplete_cep
+  $ git clone https://github.com/CleilsonAndrade/autocomplete_cep.git
   $ cd ./autocomplete_cep
 ```
 
